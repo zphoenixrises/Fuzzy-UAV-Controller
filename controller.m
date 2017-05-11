@@ -58,7 +58,7 @@ phi_c_old = phi_c;
 phi_dot_c = 0;
 u1 = m*(g + z_ddot_des + kv_z*(z_dot_des-z_dot) + kp_z*(z_des-z));
 u2 = Ixx*(phi_ddot_c + kv_phi*(phi_dot_c-phi_dot) + kp_phi*(phi_c-phi));
-% FILL IN YOUR CODE HERE
+
 
 end
 
